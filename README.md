@@ -1,6 +1,6 @@
 # Movie Prompter
 
-A single web application that helps you discover the latest movies by genre and build a temporary watchlist of your favorites.
+A single-page application that helps you discover the latest movies by genre and build a temporary watchlist of your favorites.
 
 ## Features
 
