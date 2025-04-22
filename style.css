@@ -1,0 +1,414 @@
+/* Breakpoint: Extra extra large */
+@media only screen and (min-width: 1400px) {
+  #title {
+    font-family: "Kavoon", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+
+  #underHeader {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #h2 {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  #movieSection {
+    background-color: #0e0e0e;
+    color: antiquewhite;
+  }
+
+  #movieTitle {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 40px;
+    color: antiquewhite;
+  }
+
+  #movieText {
+    font-family: "Questrial";
+    line-height: 1.25;
+    font-size: 20px;
+    color: antiquewhite;
+    line-height: 1.25;
+  }
+
+  #buttonSection {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #adder {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  footer {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 10px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+}
+/* Breakpoint: Extra large */
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+  #title {
+    font-family: "Kavoon", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+
+  #underHeader {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #h2 {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  #movieSection {
+    background-color: #0e0e0e;
+    color: antiquewhite;
+  }
+
+  #movieTitle {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 40px;
+    color: antiquewhite;
+  }
+
+  #movieText {
+    font-family: "Questrial";
+    line-height: 1.25;
+    font-size: 20px;
+    color: antiquewhite;
+    line-height: 1.25;
+  }
+
+  #buttonSection {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #adder {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  footer {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 10px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+}
+/* Breakpoint: Large */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  #title {
+    font-family: "Kavoon", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+
+  #underHeader {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #h2 {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  #movieSection {
+    background-color: #0e0e0e;
+    color: antiquewhite;
+  }
+
+  #movieTitle {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 40px;
+    color: antiquewhite;
+  }
+
+  #movieText {
+    font-family: "Questrial";
+    line-height: 1.25;
+    font-size: 20px;
+    color: antiquewhite;
+    line-height: 1.25;
+  }
+
+  #buttonSection {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #adder {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  footer {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 10px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+}
+/* Breakpoint: Medium */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  #title {
+    font-family: "Kavoon", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+
+  #underHeader {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #h2 {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  #movieSection {
+    background-color: #0e0e0e;
+    color: antiquewhite;
+  }
+
+  #movieTitle {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 40px;
+    color: antiquewhite;
+  }
+
+  #movieText {
+    font-family: "Questrial";
+    line-height: 1.25;
+    font-size: 20px;
+    color: antiquewhite;
+    line-height: 1.25;
+  }
+
+  #buttonSection {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #adder {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  footer {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 10px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+}
+/* Breakpoint: Small */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+  #title {
+    font-family: "Kavoon", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 60px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+
+  #underHeader {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #h2 {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  #movieSection {
+    background-color: #0e0e0e;
+    color: antiquewhite;
+  }
+
+  #movieTitle {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 40px;
+    color: antiquewhite;
+  }
+
+  #movieText {
+    font-family: "Questrial";
+    line-height: 1.25;
+    font-size: 20px;
+    color: antiquewhite;
+    line-height: 1.25;
+  }
+
+  #buttonSection {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #adder {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  footer {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 10px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+}
+/* Breakpoint: Extra Small */
+@media only screen and (min-width: 1px) and (max-width: 575px) {
+  #title {
+    font-family: "Kavoon", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 40px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+
+  #underHeader {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #h2 {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  #movieSection {
+    background-color: #0e0e0e;
+    color: antiquewhite;
+  }
+
+  #movieTitle {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 40px;
+    color: antiquewhite;
+  }
+
+  #movieText {
+    font-family: "Questrial";
+    line-height: 1.25;
+    font-size: 20px;
+    color: antiquewhite;
+    line-height: 1.25;
+  }
+
+  #buttonSection {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    color: #0e0e0e;
+    background-color: #ffa600;
+  }
+
+  #adder {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: large;
+    font-size: 25px;
+  }
+
+  footer {
+    font-family: "Kavoon", serif;
+    font-style: normal;
+    font-size: 10px;
+    color: #ffa600;
+    background-color: #0e0e0e;
+  }
+}
