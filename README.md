@@ -18,7 +18,7 @@ The Movie Prompter leverages the power of the [The Movie Database (TMDb) API](ht
 
 The user interface is styled using the [Bootstrap](https://getbootstrap.com/) framework, enhanced with custom CSS for a unique look and feel.
 
-## Why This Project Exists
+## Why This Project
 
 This project was developed purely for **didactical purposes**, serving as a practical exercise in:
 
