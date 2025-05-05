@@ -47,8 +47,8 @@
       <h1 id="title" class="p-3 m-0">Movie Prompter</h1>
     </header>
 
-    <main>
-      <div id="underHeader" class="container-lg text-center p-3">
+    <main style="background-color: #0e0e0e">
+      <div id="underHeader" class="container-fluid text-center p-3">
         <form>
           <label id="h2" class="row justify-content-center p-1"
             >Choose a genre and start prompting the latest movies!
@@ -74,14 +74,21 @@
 
       <div id="movieSection" class="container-lg p-5">
         <div id="movieInfo" class="row align-items-center">
-          <div id="moviePoster" class="col-6">
+          <div
+            id="moviePoster"
+            class="col-12 col-sm-10 col-md-6 mx-auto mx-md-0"
+          >
             <img
               src="https://image.tmdb.org/t/p/original//q0bCG4NX32iIEsRFZqRtuvzNCyZ.jpg"
               id="moviePoster"
-              class="img-thumbnail border-0"
+              class="img-fluid rounded mx-auto d-block"
+              alt="Movie Poster"
             />
           </div>
-          <div id="movieText" class="col-6">
+          <div
+            id="movieText"
+            class="col-12 col-sm-10 col-md-6 mx-auto mx-md-0 text-center mt-4 text-md-start mt-md-0"
+          >
             <h1 id="movieTitle" class="pb-2">Flight Risk</h1>
             <p id="movieOverview" class="pt-2">
               A U.S. Marshal escorts a government witness to trial after he's

@@ -52,7 +52,7 @@ const createMoviePoster = (posterPath) => {
   const posterImg = document.createElement("img");
   posterImg.setAttribute("src", moviePosterUrl);
   posterImg.setAttribute("id", "moviePoster");
-  posterImg.setAttribute("class", "img-thumbnail border-0");
+  posterImg.setAttribute("class", "img-fluid rounded mx-auto d-block");
 
   return posterImg;
 };
